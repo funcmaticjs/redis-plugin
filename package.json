@@ -1,5 +1,5 @@
 {
-  "name": "@funcmaticjs/redis",
+  "name": "@funcmaticjs/redis-plugin",
   "version": "0.0.1",
   "description": "Funcmatic middleware that creates and manages a Redis connection",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/funcmaticjs/redis.git"
+    "url": "https://github.com/funcmaticjs/redis-plugin.git"
   },
   "dependencies": {
     "redis": "^2.8.0"
